@@ -1,5 +1,5 @@
 # Fashion
-analysing fashion hashtag from Twitter.
+Simple analysing tool for analysing fashion hashtag from Twitter.
 
 To Run this project:
 
